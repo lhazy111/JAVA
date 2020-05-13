@@ -5,9 +5,9 @@ public class evenodd {
         System.out.print ("Podaj liczbe: ");
         int number = input.nextInt();
             if (number%2==0) {
-                System.out.print ("Podales liczbe parzysta");
+                System.out.print ("Your number is even");
         }   else {
-                System.out.print ("Liczba nieparzysta");
+                System.out.print ("Your number is odd");
         }
        int x = 64;
             int y = 0;
